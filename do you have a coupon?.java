@@ -33,7 +33,7 @@ class TicketPriceWithDiscount {
     System.out.print("Please pay £");
     System.out.print(price);
     System.out.print(". ");
-    System.out.println("Enjoy the show!);
+    System.out.println("Enjoy the show!");
     
   }
 }
